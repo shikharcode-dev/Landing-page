@@ -20,7 +20,12 @@ layout, responsiveness, and clean UI design.
 The website adapts smoothly to different screen sizes using media queries.
 
 ## 📸 Screenshots
-Screenshots are available in the repository.
+
+### Desktop View
+![Desktop View](screenshots/desktop.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile.png)
 
 ## 🌐 Live Demo
 (Will be updated after GitHub Pages deployment)
