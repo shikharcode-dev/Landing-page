@@ -28,7 +28,7 @@ The website adapts smoothly to different screen sizes using media queries.
 ![Mobile View](screenshots/mobile.png)
 
 ## 🌐 Live Demo
-(Will be updated after GitHub Pages deployment)
+https://shikharcode-dev.github.io/Landing-page/
 
 ## 📌 Disclaimer
 This project is created for educational purposes only.
